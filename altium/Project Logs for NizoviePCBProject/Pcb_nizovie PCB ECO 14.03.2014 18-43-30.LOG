@@ -1,0 +1,22 @@
+Added Component: Designator=DD?(TSQFP50P2600X2600X160-176N)
+Added Component: Designator=DD?(TSQFP50P2600X2600X160-176N)
+Added Component: Designator=R1000(FP_0805)
+Added Component: Designator=R1001(FP_0805)
+Added Pin To Net: NetName=NetDD1_15 Pin=DD1-15
+Added Pin To Net: NetName=NetDD?_2 Pin=DD?-2
+Added Pin To Net: NetName=NetDD?_2 Pin=DD?-54
+Added Net: Name=NetDD?_2
+Added Pin To Net: NetName=NetDD?_63 Pin=DD?-63
+Added Pin To Net: NetName=NetDD?_63 Pin=R1001-2
+Added Net: Name=NetDD?_63
+Added Pin To Net: NetName=NetDD?_105 Pin=DD?-105
+Added Pin To Net: NetName=NetDD?_105 Pin=R1001-1
+Added Net: Name=NetDD?_105
+Added Pin To Net: NetName=NetDD?_109 Pin=DD?-109
+Added Pin To Net: NetName=NetDD?_109 Pin=R1000-1
+Added Net: Name=NetDD?_109
+Added Pin To Net: NetName=NetDD?_155 Pin=DD?-155
+Added Pin To Net: NetName=NetDD?_155 Pin=R1000-2
+Added Net: Name=NetDD?_155
+Added Class: Name=Sheet_2_nizovie
+Added Room: Name=Sheet_2_nizovie

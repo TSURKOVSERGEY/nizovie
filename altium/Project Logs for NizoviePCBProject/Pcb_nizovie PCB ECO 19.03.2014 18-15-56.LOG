@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetDD1_15 Pin=X1-1
+Removed Pin From Net: NetName=NetDD1_15 Pin=X1-2
+Removed Pin From Net: NetName=NetDD1_13 Pin=X1-6
+Removed Pin From Net: NetName=GND Pin=X1-8
+Removed Pin From Net: NetName=NetR4_1 Pin=X1-9
+Removed Pin From Net: NetName=NetDD1_28 Pin=X1-10
+Removed Pin From Net: NetName=NetDD1_26 Pin=X1-11
+Removed Pin From Net: NetName=NetR3_1 Pin=X1-12
+Removed Pin From Net: NetName=GND Pin=X1-13
+Removed Pin From Net: NetName=GND Pin=X1-14
+Change Component DesignItemId : Designator=X1 Old DesignItemId=J0011D21B New DesignItemId=MHDR1X5
+Change Component DesignItemId : Designator=X1 Old DesignItemId=MHDR1X5 New DesignItemId=J0011D21B
+Change Component Footprint: Designator=X1 Old Footprint=J0006D21BNL New Footprint=MHDR1X5
+Change Component Footprint: Designator=X1 Old Footprint=MHDR1X5 New Footprint=J0006D21BNL
+Change Component Comment : Designator=X1 Old Comment=J0011D21B New Comment=MHDR1X5
+Change Component Comment : Designator=X1 Old Comment=MHDR1X5 New Comment=J0011D21B
+Added Pin To Net: NetName=NetDD1_15 Pin=DD1-15
+Added Pin To Net: NetName=NetDD1_15 Pin=X1-1
+Added Pin To Net: NetName=+3.3V Pin=X1-2
+Added Pin To Net: NetName=NetDD1_15 Pin=X1-2
+Added Pin To Net: NetName=NetDD1_14 Pin=X1-3
+Added Pin To Net: NetName=+3.3V Pin=X1-4
+Added Pin To Net: NetName=+3.3V Pin=X1-5

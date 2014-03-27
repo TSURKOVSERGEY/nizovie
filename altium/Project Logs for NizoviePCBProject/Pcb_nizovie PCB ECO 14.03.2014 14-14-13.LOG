@@ -1,0 +1,16 @@
+Added Component: Designator=X1(J0006D21BNL)
+Added Pin To Net: NetName=NetDD1_15 Pin=DD1-15
+Added Pin To Net: NetName=NetDD1_15 Pin=X1-1
+Added Pin To Net: NetName=NetDD1_15 Pin=X1-2
+Added Pin To Net: NetName=NetDD1_14 Pin=X1-3
+Added Pin To Net: NetName=+3.3V Pin=X1-4
+Added Pin To Net: NetName=+3.3V Pin=X1-5
+Added Pin To Net: NetName=NetDD1_13 Pin=X1-6
+Added Pin To Net: NetName=GND Pin=X1-8
+Added Pin To Net: NetName=NetR4_1 Pin=X1-9
+Added Pin To Net: NetName=NetDD1_28 Pin=X1-10
+Added Pin To Net: NetName=NetDD1_26 Pin=X1-11
+Added Pin To Net: NetName=NetR3_1 Pin=X1-12
+Added Pin To Net: NetName=GND Pin=X1-13
+Added Pin To Net: NetName=GND Pin=X1-14
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component X1 J0011D21B

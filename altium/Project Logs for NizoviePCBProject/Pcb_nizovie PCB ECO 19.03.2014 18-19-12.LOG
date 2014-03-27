@@ -1,0 +1,256 @@
+Added Component: Designator=C1(FP_0805)
+Added Component: Designator=C2(FP_0805)
+Added Component: Designator=C3(FP_0805)
+Added Component: Designator=C4(FP_0805)
+Added Component: Designator=C5(FP_0805)
+Added Component: Designator=C6(FP_0805)
+Added Component: Designator=C7(FP_0805)
+Added Component: Designator=C8(FP_0805)
+Added Component: Designator=C9(FP_0805)
+Added Component: Designator=C10(FP_0805)
+Added Component: Designator=C11(FP_0805)
+Added Component: Designator=C12(FP_0805)
+Added Component: Designator=C13(FP_0805)
+Added Component: Designator=C14(FP_0805)
+Added Component: Designator=DD1(TSQFP50P905X905X140-48N)
+Added Component: Designator=DD2(TSQFP50P2600X2600X160-176N)
+Added Component: Designator=R1(FP_0805)
+Added Component: Designator=R2(FP_0805)
+Added Component: Designator=R5(FP_0805)
+Added Component: Designator=R6(FP_0805)
+Added Component: Designator=R7(FP_0805)
+Added Component: Designator=R8(FP_0805)
+Added Component: Designator=R9(FP_0805)
+Added Component: Designator=R10(FP_0805)
+Added Component: Designator=R11(FP_0805)
+Added Component: Designator=R12(FP_0805)
+Added Component: Designator=R13(FP_0805)
+Added Component: Designator=R14(FP_0805)
+Added Component: Designator=R15(FP_0805)
+Added Component: Designator=R16(FP_0805)
+Added Component: Designator=R17(FP_0805)
+Added Component: Designator=R18(FP_0805)
+Added Component: Designator=R19(FP_0805)
+Added Component: Designator=R20(FP_0805)
+Added Component: Designator=R21(FP_0805)
+Added Component: Designator=R22(FP_0805)
+Added Component: Designator=X1(J0006D21BNL)
+Added Component: Designator=X2(MHDR1X5)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+3.3V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+3.3V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+3.3V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+3.3V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC5_2 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC5_2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC8_2 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=NetC8_2 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=NetC8_2 Pin=C11-2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=M_TX_EN Pin=DD1-2
+Added Pin To Net: NetName=M_TXD_0 Pin=DD1-3
+Added Pin To Net: NetName=M_TXD_1 Pin=DD1-4
+Added Pin To Net: NetName=M_TXD_2 Pin=DD1-5
+Added Pin To Net: NetName=M_TXD_3 Pin=DD1-6
+Added Pin To Net: NetName=M_INT Pin=DD1-7
+Added Pin To Net: NetName=NetDD1_13 Pin=DD1-13
+Added Pin To Net: NetName=NetDD1_14 Pin=DD1-14
+Added Pin To Net: NetName=GND Pin=DD1-15
+Added Pin To Net: NetName=NetDD1_15 Pin=DD1-15
+Added Pin To Net: NetName=NetDD1_15 Pin=DD1-16
+Added Pin To Net: NetName=NetC8_2 Pin=DD1-18
+Added Pin To Net: NetName=GND Pin=DD1-19
+Added Pin To Net: NetName=NetDD1_20 Pin=DD1-20
+Added Pin To Net: NetName=NetDD1_21 Pin=DD1-21
+Added Pin To Net: NetName=NetC5_2 Pin=DD1-22
+Added Pin To Net: NetName=NetC8_2 Pin=DD1-23
+Added Pin To Net: NetName=NetDD1_24 Pin=DD1-24
+Added Pin To Net: NetName=NetDD1_26 Pin=DD1-26
+Added Pin To Net: NetName=NetDD1_27 Pin=DD1-27
+Added Pin To Net: NetName=NetDD1_28 Pin=DD1-28
+Added Pin To Net: NetName=RESET Pin=DD1-29
+Added Pin To Net: NetName=M_MDIO Pin=DD1-30
+Added Pin To Net: NetName=NetDD1_31 Pin=DD1-31
+Added Pin To Net: NetName=NetC5_2 Pin=DD1-32
+Added Pin To Net: NetName=NetDD1_34 Pin=DD1-34
+Added Pin To Net: NetName=GND Pin=DD1-35
+Added Pin To Net: NetName=GND Pin=DD1-36
+Added Pin To Net: NetName=NetC8_2 Pin=DD1-37
+Added Pin To Net: NetName=NetDD1_38 Pin=DD1-38
+Added Pin To Net: NetName=M_RX_DV Pin=DD1-39
+Added Pin To Net: NetName=M_CRS Pin=DD1-40
+Added Pin To Net: NetName=M_RX_ER Pin=DD1-41
+Added Pin To Net: NetName=M_COL Pin=DD1-42
+Added Pin To Net: NetName=M_RXD_0 Pin=DD1-43
+Added Pin To Net: NetName=M_RXD_1 Pin=DD1-44
+Added Pin To Net: NetName=M_RXD_2 Pin=DD1-45
+Added Pin To Net: NetName=M_RXD_3 Pin=DD1-46
+Added Pin To Net: NetName=GND Pin=DD1-47
+Added Pin To Net: NetName=NetC5_2 Pin=DD1-48
+Added Pin To Net: NetName=M_RX_ER Pin=DD2-12
+Added Pin To Net: NetName=GND Pin=DD2-14
+Added Pin To Net: NetName=+3.3V Pin=DD2-15
+Added Pin To Net: NetName=GND Pin=DD2-22
+Added Pin To Net: NetName=+3.3V Pin=DD2-23
+Added Pin To Net: NetName=M_MDC Pin=DD2-33
+Added Pin To Net: NetName=M_TXD3 Pin=DD2-34
+Added Pin To Net: NetName=M_TX_CLK Pin=DD2-35
+Added Pin To Net: NetName=+3.3V Pin=DD2-36
+Added Pin To Net: NetName=GND Pin=DD2-37
+Added Pin To Net: NetName=NetC14_2 Pin=DD2-38
+Added Pin To Net: NetName=NetC14_2 Pin=DD2-39
+Added Pin To Net: NetName=M_CRS Pin=DD2-40
+Added Pin To Net: NetName=M_RX_CLK Pin=DD2-41
+Added Pin To Net: NetName=M_MDIO Pin=DD2-42
+Added Pin To Net: NetName=M_COL Pin=DD2-44
+Added Pin To Net: NetName=GND Pin=DD2-48
+Added Pin To Net: NetName=+3.3V Pin=DD2-49
+Added Pin To Net: NetName=M_RX_DV Pin=DD2-53
+Added Pin To Net: NetName=M_RXD0 Pin=DD2-54
+Added Pin To Net: NetName=M_RXD1 Pin=DD2-55
+Added Pin To Net: NetName=M_RXD2 Pin=DD2-56
+Added Pin To Net: NetName=M_RXD3 Pin=DD2-57
+Added Pin To Net: NetName=GND Pin=DD2-61
+Added Pin To Net: NetName=+3.3V Pin=DD2-62
+Added Pin To Net: NetName=GND Pin=DD2-71
+Added Pin To Net: NetName=+3.3V Pin=DD2-72
+Added Pin To Net: NetName=M_TX_EN Pin=DD2-80
+Added Pin To Net: NetName=NetC13_2 Pin=DD2-81
+Added Pin To Net: NetName=+3.3V Pin=DD2-82
+Added Pin To Net: NetName=GND Pin=DD2-90
+Added Pin To Net: NetName=+3.3V Pin=DD2-91
+Added Pin To Net: NetName=M_TXD0 Pin=DD2-92
+Added Pin To Net: NetName=M_TXD1 Pin=DD2-93
+Added Pin To Net: NetName=GND Pin=DD2-102
+Added Pin To Net: NetName=+3.3V Pin=DD2-103
+Added Pin To Net: NetName=GND Pin=DD2-113
+Added Pin To Net: NetName=+3.3V Pin=DD2-114
+Added Pin To Net: NetName=MCO_1 Pin=DD2-119
+Added Pin To Net: NetName=SWD_IO Pin=DD2-124
+Added Pin To Net: NetName=NetC12_2 Pin=DD2-125
+Added Pin To Net: NetName=GND Pin=DD2-126
+Added Pin To Net: NetName=+3.3V Pin=DD2-127
+Added Pin To Net: NetName=GND Pin=DD2-135
+Added Pin To Net: NetName=+3.3V Pin=DD2-136
+Added Pin To Net: NetName=SWD_CLK Pin=DD2-137
+Added Pin To Net: NetName=GND Pin=DD2-148
+Added Pin To Net: NetName=+3.3V Pin=DD2-149
+Added Pin To Net: NetName=GND Pin=DD2-158
+Added Pin To Net: NetName=+3.3V Pin=DD2-159
+Added Pin To Net: NetName=NetDD2_166 Pin=DD2-166
+Added Pin To Net: NetName=M_TXD3 Pin=DD2-167
+Added Pin To Net: NetName=+3.3V Pin=DD2-172
+Added Pin To Net: NetName=M_INT Pin=DD2-176
+Added Pin To Net: NetName=NetDD1_14 Pin=R1-1
+Added Pin To Net: NetName=+3.3V Pin=R1-2
+Added Pin To Net: NetName=NetDD1_15 Pin=R2-1
+Added Pin To Net: NetName=+3.3V Pin=R2-2
+Added Pin To Net: NetName=NetDD1_13 Pin=R5-1
+Added Pin To Net: NetName=+3.3V Pin=R5-2
+Added Pin To Net: NetName=NetDD1_15 Pin=R6-1
+Added Pin To Net: NetName=+3.3V Pin=R6-2
+Added Pin To Net: NetName=M_TX_CLK Pin=R7-1
+Added Pin To Net: NetName=NetDD1_1 Pin=R7-2
+Added Pin To Net: NetName=NetDD1_28 Pin=R8-1
+Added Pin To Net: NetName=+3.3V Pin=R8-2
+Added Pin To Net: NetName=NetDD1_27 Pin=R9-1
+Added Pin To Net: NetName=+3.3V Pin=R9-2
+Added Pin To Net: NetName=M_RX_CLK Pin=R10-1
+Added Pin To Net: NetName=NetDD1_38 Pin=R10-2
+Added Pin To Net: NetName=NetDD1_26 Pin=R11-1
+Added Pin To Net: NetName=+3.3V Pin=R11-2
+Added Pin To Net: NetName=NetDD1_21 Pin=R12-1
+Added Pin To Net: NetName=+3.3V Pin=R12-2
+Added Pin To Net: NetName=NetDD1_20 Pin=R13-1
+Added Pin To Net: NetName=+3.3V Pin=R13-2
+Added Pin To Net: NetName=+3.3V Pin=R14-1
+Added Pin To Net: NetName=NetDD1_31 Pin=R14-2
+Added Pin To Net: NetName=M_MDC Pin=R15-1
+Added Pin To Net: NetName=NetDD1_31 Pin=R15-2
+Added Pin To Net: NetName=+3.3V Pin=R16-1
+Added Pin To Net: NetName=M_INT Pin=R16-2
+Added Pin To Net: NetName=MCO_1 Pin=R17-1
+Added Pin To Net: NetName=NetDD1_34 Pin=R17-2
+Added Pin To Net: NetName=NetDD1_24 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=+3.3V Pin=R19-1
+Added Pin To Net: NetName=NetDD2_166 Pin=R19-2
+Added Pin To Net: NetName=+3.3V Pin=R20-1
+Added Pin To Net: NetName=NetC14_2 Pin=R20-2
+Added Pin To Net: NetName=SWD_SCLK Pin=R21-1
+Added Pin To Net: NetName=SWD_IO Pin=R22-1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetDD1_15 Pin=X1-1
+Added Pin To Net: NetName=NetDD1_15 Pin=X1-2
+Added Pin To Net: NetName=NetDD1_14 Pin=X1-3
+Added Pin To Net: NetName=+3.3V Pin=X1-4
+Added Pin To Net: NetName=+3.3V Pin=X1-5
+Added Pin To Net: NetName=NetDD1_13 Pin=X1-6
+Added Pin To Net: NetName=GND Pin=X1-8
+Added Pin To Net: NetName=NetR4_1 Pin=X1-9
+Added Pin To Net: NetName=NetDD1_28 Pin=X1-10
+Added Pin To Net: NetName=NetDD1_26 Pin=X1-11
+Added Pin To Net: NetName=NetR3_1 Pin=X1-12
+Added Pin To Net: NetName=GND Pin=X1-13
+Added Pin To Net: NetName=GND Pin=X1-14
+Added Pin To Net: NetName=+3.3V Pin=X2-2
+Added Pin To Net: NetName=NetR22_2 Pin=X2-4
+Added Pin To Net: NetName=GND Pin=X2-5
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=X2-3
+Added Net: Name=NetR21_2
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component C1 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component C2 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component C3 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component C4 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component C5 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component C6 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component C7 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component C8 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component C9 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component C10 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component C11 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_2_nizovie Member=Component C12 22 לךװ 6.3ג
+Added Member To Class: ClassName=Sheet_2_nizovie Member=Component C13 22 לךװ 6.3ג
+Added Member To Class: ClassName=Sheet_2_nizovie Member=Component C14 0.1 לךװ 25ג
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component DD1 DP838481VV
+Added Member To Class: ClassName=Sheet_2_nizovie Member=Component DD2 STM32F207VG
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R1 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R2 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R5 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R6 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R7 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R8 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R9 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R10 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R11 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R12 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R13 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R14 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R15 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R16 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R17 1kOm
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component R18 1kOm
+Added Member To Class: ClassName=Sheet_2_nizovie Member=Component R19 50kOm
+Added Member To Class: ClassName=Sheet_2_nizovie Member=Component R20 22Om
+Added Member To Class: ClassName=Sheet_2_nizovie Member=Component R21 22Om
+Added Member To Class: ClassName=Sheet_2_nizovie Member=Component R22 22Om
+Added Member To Class: ClassName=Sheet_1_nizovie Member=Component X1 J0011D21B
+Added Member To Class: ClassName=Sheet_2_nizovie Member=Component X2 MHDR1X5

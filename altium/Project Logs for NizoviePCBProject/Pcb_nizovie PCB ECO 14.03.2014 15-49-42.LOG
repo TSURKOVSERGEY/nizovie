@@ -1,0 +1,15 @@
+Added Component: Designator=C101(FP_0805)
+Added Component: Designator=C111(FP_0805)
+Added Component: Designator=C811(FP_0805)
+Added Component: Designator=C911(FP_0805)
+Added Pin To Net: NetName=GND Pin=C101-1
+Added Pin To Net: NetName=+3.3V Pin=C101-2
+Added Pin To Net: NetName=GND Pin=C111-1
+Added Pin To Net: NetName=+3.3V Pin=C111-2
+Added Pin To Net: NetName=GND Pin=C811-1
+Added Pin To Net: NetName=+3.3V Pin=C811-2
+Added Pin To Net: NetName=GND Pin=C911-1
+Added Pin To Net: NetName=+3.3V Pin=C911-2
+Added Pin To Net: NetName=NetDD1_15 Pin=DD1-15
+Added Class: Name=Sheet_2_nizovie
+Added Room: Name=Sheet_2_nizovie

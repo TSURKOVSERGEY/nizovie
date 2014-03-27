@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=NetDD1_15 Pin=X1-1
+Removed Pin From Net: NetName=NetDD1_15 Pin=X1-2
+Removed Pin From Net: NetName=NetDD1_14 Pin=X1-3
+Removed Pin From Net: NetName=+3.3V Pin=X1-4
+Removed Pin From Net: NetName=+3.3V Pin=X1-5
+Removed Pin From Net: NetName=NetDD1_13 Pin=X1-6
+Removed Pin From Net: NetName=GND Pin=X1-8
+Removed Pin From Net: NetName=NetR4_1 Pin=X1-9
+Removed Pin From Net: NetName=NetDD1_28 Pin=X1-10
+Removed Pin From Net: NetName=NetDD1_26 Pin=X1-11
+Removed Pin From Net: NetName=NetR3_1 Pin=X1-12
+Removed Pin From Net: NetName=GND Pin=X1-13
+Removed Pin From Net: NetName=GND Pin=X1-14
+Removed Member From Class: ClassName=Sheet_2_nizovie Member=R20
+Change Component DesignItemId : Designator=X1 Old DesignItemId=J0011D21B New DesignItemId=MHDR1X5
+Change Component Footprint: Designator=X1 Old Footprint=J0006D21BNL New Footprint=MHDR1X5
+Change Component Comment : Designator=R22 Old Comment=1kOm New Comment=22Om
+Change Component Comment : Designator=X1 Old Comment=J0011D21B New Comment=MHDR1X5
+Added Component: Designator=R23(FP_0805)
+Added Component: Designator=X1(J0006D21BNL)
+Added Pin To Net: NetName=GND Pin=DD1-15
+Added Pin To Net: NetName=M_RX_ER Pin=DD2-12
+Added Pin To Net: NetName=M_MDC Pin=DD2-33
+Added Pin To Net: NetName=M_TX_CLK Pin=DD2-35
+Added Pin To Net: NetName=M_CRS Pin=DD2-40
+Added Pin To Net: NetName=M_RX_CLK Pin=DD2-41
+Added Pin To Net: NetName=M_MDIO Pin=DD2-42
+Added Pin To Net: NetName=M_COL Pin=DD2-44
+Added Pin To Net: NetName=M_RX_DV Pin=DD2-53
+Added Pin To Net: NetName=M_TX_EN Pin=DD2-80
+Added Pin To Net: NetName=MCO_1 Pin=DD2-119
+Added Pin To Net: NetName=M_INT Pin=DD2-176
+Added Pin To Net: NetName=NetDD1_15 Pin=X1-1
+Added Pin To Net: NetName=+3.3V Pin=X1-2
+Added Pin To Net: NetName=NetDD1_15 Pin=X1-2
+Added Pin To Net: NetName=NetDD1_14 Pin=X1-3
+Added Pin To Net: NetName=+3.3V Pin=X1-4
+Added Pin To Net: NetName=+3.3V Pin=X1-5
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=NetDD1_13 Pin=X1-6
+Added Pin To Net: NetName=GND Pin=X1-8
+Added Pin To Net: NetName=NetR4_1 Pin=X1-9
+Added Pin To Net: NetName=NetDD1_28 Pin=X1-10
+Added Pin To Net: NetName=NetDD1_26 Pin=X1-11
+Added Pin To Net: NetName=NetR3_1 Pin=X1-12
+Added Pin To Net: NetName=GND Pin=X1-13
+Added Pin To Net: NetName=GND Pin=X1-14
+Added Pin To Net: NetName=M_RXD0 Pin=DD2-54
+Added Net: Name=M_RXD0
+Added Pin To Net: NetName=M_RXD1 Pin=DD2-55
+Added Net: Name=M_RXD1
+Added Pin To Net: NetName=M_RXD2 Pin=DD2-56
+Added Net: Name=M_RXD2
+Added Pin To Net: NetName=M_RXD3 Pin=DD2-57
+Added Net: Name=M_RXD3
+Added Pin To Net: NetName=M_TXD0 Pin=DD2-92
+Added Net: Name=M_TXD0
+Added Pin To Net: NetName=M_TXD1 Pin=DD2-93
+Added Net: Name=M_TXD1
+Added Pin To Net: NetName=M_TXD3 Pin=DD2-34
+Added Pin To Net: NetName=M_TXD3 Pin=DD2-167
+Added Net: Name=M_TXD3
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=X1-3
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=X1-4
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=SWD_CLK Pin=DD2-137
+Added Net: Name=SWD_CLK
+Added Pin To Net: NetName=SWD_IO Pin=DD2-124
+Added Pin To Net: NetName=SWD_IO Pin=R23-1
+Added Net: Name=SWD_IO
+Added Pin To Net: NetName=SWD_SCLK Pin=R22-1
+Added Net: Name=SWD_SCLK
+Added Member To Class: ClassName=Sheet_2_nizovie Member=Component R23 22Om
+Added Member To Class: ClassName=Sheet_2_nizovie Member=Component X1 MHDR1X5
